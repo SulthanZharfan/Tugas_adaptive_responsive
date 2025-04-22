@@ -8,4 +8,9 @@ icon | Nama | NPM |
 ## Tugas
 Tambahkan Floating Action Button (FAB) pada tampilan Compact.
 
-## Screenshot Halaman:
+## 📸 Screenshot
+
+Berikut adalah tampilan aplikasi saat dijalankan:
+
+![Tampilan](assets/images/SS1.png)
+![Tampilan](assets/images/SS2.png)
